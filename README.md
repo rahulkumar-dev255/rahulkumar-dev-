@@ -32,8 +32,8 @@ HTML • CSS • JavaScript • Git • GitHub • VS Code • Figma
 
 ### 📫 Connect with Me  
 📧 **rahulkumar8709106153@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/rahulkumar) *(Add your real link)*  
-🌍 [Portfolio Website](https://rahulkumar-dev.github.io/) *(optional)*  
+💼 [LinkedIn](www.linkedin.com/in/rahul-kumar-5a9936285) 
+
 
 ---
 
